@@ -1,0 +1,1 @@
+javascript:(function()%7Bdocument.body.onkeyup%20%3D%20function(e)%20%7Bif%20(e.key%20%3D%3D%20%22z%22%20%7C%7Ce.code%20%3D%3D%20%22KeyZ%22%20%7C%7Ce.keyCode%20%3D%3D%2090)%20%7Bwindow.location.href%20%3D%20%22https%3A%2F%2Fwww.colegia.org%2Fdashboard%22%3B%7D%7D%7D)()
